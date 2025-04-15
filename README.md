@@ -163,4 +163,4 @@ MIT
 
 ## Author
 
-[Your Name](https://yourwebsite.com) 
+[Benjamin Namo](https://bennamo.com) 
